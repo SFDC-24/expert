@@ -11,4 +11,4 @@ steps:
       - 'us-central1-docker.pkg.dev/sfdc24/expert/expert_image:latest'
 
 options:
-  logging: NONE
+  logging: CLOUD_LOGGING_ONLY
